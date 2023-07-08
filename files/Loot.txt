@@ -1,0 +1,280 @@
+Loot
+An adventure from rags to riches
+
+Introduction
+Loot is a game is about waking up in a strange and dangerous place, surviving, and acquiring loot. Each player takes on the role of a character, who attempts to survive, explore, and find loot. The game ends when they get rich and escape to safety, or there are no survivors. One player also serves as the guide to the world, the disembodied narrator of the wildlife film you are starring in.
+
+Loot is a cooperative game, consisting of a friendly, lighthearted and collaborative conversation between all the players. The guide describes the world and helps the players navigate its perils, faithfully describing what they can see, answering questions, and guiding the players towards meaningful choices. The players are their characters during the game. Players should ask questions and consider their actions carefully, both from the perspective of their characters and themselves. Players should always remember that the world is their adversary, not the guide.
+
+The world is a dangerous, deadly place, filled with wonder and lots of loot. You keep what you kill.
+Contents
+
+
+
+Loot. Copyright © 2023 Paul Abrams 
+All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means whatsoever without express written permission from the author, except in the case of brief quotations embodied in critical articles and reviews. Please refer all pertinent questions to the publisher.Character Creation
+As a player, you will take on the role of a character in the world. Write a simple one-line character description. Examples:
+
+Gideon Blackthorn: A young swordsman from a remote village, driven by a thirst for adventure and a desire to prove himself.
+Elara Ravenshadow: A sorceress with untamed powers, seeking to harness her abilities and unravel the mysteries of her lineage.
+Bran Ironheart: A burly blacksmith's apprentice, yearning to forge his own destiny and become a legendary warrior.
+Astrid Stormwind: A skilled archer with a troubled past, determined to find redemption and protect those in need.
+Lyra Moonshadow: A stealthy thief with a heart of gold, on a quest to uncover the truth behind her parents' disappearance.
+Magnus Stonehaven: A charismatic bard with a silver tongue, seeking fame and fortune through his mesmerizing tales and enchanting melodies.
+
+AI Prompt: Suggest 6 new named characters, novices with no experience, 20 words each, Robert E Howard.
+
+When the game starts you will wake up wearing rags, with no equipment. The guide will describe your surroundings, and the world will probably try to kill you. Sounds like a good time to look for loot!
+Loot
+The focus of this game is adventuring in dangerous places and acquiring loot, such as items of equipment, treasure, and magic items. Sometimes you will find loot that isn’t nailed down and can just take it, but other times it will be guarded by hazards such as monsters, traps, or its current owner.
+
+Most loot consists of mundane objects, such as a stick, rope, water flask, or a sharp knife. You’d be surprised what you can do with these things if you are clever. You’re going to need to be clever to survive.
+Learning Items
+You need to learn an item before you can use it to its full potential. For example, if you find a sword then you need to spend some time practicing with it and feeling the balance of that sword, before you have it all dialed in. The guide will gauge your chances against the world better if you are using loot you have learned.
+
+You can learn one item after you spend several hours training with the item. So, you can usually learn one item per day, assuming a normal day out and about, and then rest time back at camp.
+
+Time is precious, so you may need to carefully weigh your choices of which item to learn.
+While everybody knows how to use simple everyday items like shovels and rope, not everybody can use them to their full potential.
+Each item is considered different unless mass-manufactured, such as general-issue cavalry sabres, matches, a hammer, etc.
+Some rare items have more than one part to learn.
+Taming/training a pet also works this way
+You cannot learn items when deprived.
+Fast Learner
+You can learn an item much more rapidly if it is similar to an item you already know, or is related to our character description. So, you can learn familiar item along with a normal item. An ex-soldier can rapidly learn a cutlass, an archer will find it easy to learn new bows, and a mage will find it easy to learn more spell scrolls, etc.
+Combat
+Fighting is always a choice, but rarely a wise one. As always, make sure you stack the odds in your favor by describing how you are approaching the situation in a clever way.
+
+You could potentially use an item to help avoid injury, such parrying with a shield or a sword. For best results mention this in the conversation so the guide has this top of mind, but don’t expect much benefit until you learn the item. Armor is also great if you can find or make it, again just be sure to talk about it.
+Caches
+While you will always feel excited when you find new loot, after you stop to rest you will realize how heavy a lot of it is. So, you will feel compelled to cache some loot each time you make camp or rest. Nobody wants to carry around lots of heavy, bulky items such as crates, so those get dropped first. Same goes with extra weapons and armor, and anything else that doesn’t seem essential. Since you might want the loot later, you cache it, that is you store it and mark the spot so you can find it later. You must always cache at least one item when you make camp or rest. You’ll develop a long line of caches over time. If you can, it’s not a bad idea to cache extra food or water just in case. 
+
+You’re doing this for own good. It’s a good idea to stay fast and nimble, as you might need to run fast. Having caches to run back to will also be very helpful some day.
+Bases
+At some point you’ll probably want to build a safe place of some kind, a base. You’ll want to choose the location carefully, and you will probably spend time fixing it up and consolidating your caches here.
+
+Survival
+Survival is a major part of the game, especially on your first night and early days into the game. You will need to find food, water, shelter, and other essentials of life.
+Deprivation
+You are deprived if you lack a crucial need (food, water, sleep, etc).  You will lack your full energy and cannot learn or untap items.
+
+You are also more likely to make mistakes. The guide may regretfully have to inform you that your latest plan failed or some other mishap occurred.
+
+So, for your protection you should always eat a meal and drink water whenever you stop to rest, learn an item, sleep, or untap an item. Otherwise the things in the world might see you as easy prey…
+Injury
+If you become injured then you should try to hole up and rest, and play out your healing process in the conversation. You will not be able to heal if deprived, but otherwise you have a lot of time on your hands to learn items.
+Changing Characters
+At some point you will need to change characters. Your current character might get mangled, die, or be out of commission healing for a long time. You might find all the loot you need to retire happily and escape to safety. Or you just might just want to try a new character.
+
+When you make a new character, you can transfer loot from your old character. Your new character will need to learn loot normally.The Guide
+As the guide, your role is to serve as the players’ guide to the world. You are not the world, you are a cooperative guide to the world. This is an important distinction because the world is strange and dangerous. The world is the adversary, not you.
+
+You will need to decide on a general concept such as a genre and starting location. Do you want a deserted island? A land of the lost? A dark and dingy city of thieves? You can do anything you want.
+An Emergent World
+Don’t sweat the world. This will emerge through play, starting with the local area where the players are right now. You can optionally prepare some of this ahead of time, or use a prewritten world, but don't over-prepare. Try to keep the world mysterious for as long as possible; avoid providing any background info up-front, and dole it out slowly.
+
+Barbarian Sands: A desert wasteland filled with nomadic tribes and ancient mysteries.
+Dark Forest: A haunted wood teeming with mythical creatures and supernatural perils.
+City of Thieves: A sprawling metropolis ruled by ruthless criminal syndicates.
+Isle of Shadows: A cursed island where deadly secrets lurk in every shadow.
+Savage Frontiers: A lawless frontier beset by savage tribes and bloodthirsty outlaws.
+Eldritch Ruins: A forgotten land overrun by eldritch horrors and forbidden magic.
+
+Suggest 6 world concepts for a novel where several characters wake up in rags without any of their belongings, 10 words each, Robert E HowardStart the Game
+Tell the players that their characters wake up in rags, with none of their prior belongings, and briefly describe what they see. Then step back and see what the players do.
+
+Blinking away disorientation, you find yourself surrounded by debris and fellow castaways. The distant sound of crashing waves echoes in your ears.
+In the aftermath of a brutal storm, a disoriented crew woke amidst debris, their regal uniforms torn and salt-stained.
+The cold cobblestones greet you as you regain consciousness in a shadowy alley, penniless and stripped of all possessions.
+The salty air filled their lungs as a group of castaways stumbled ashore, their luxurious garments reduced to ragged remnants.
+Opening your eyes, you find yourself in a dimly lit dungeon, with only tattered clothing.
+With the taste of ash lingering in your mouth, you awaken amidst the ruins of a city.
+
+AI Prompt: Suggest 6 intro scenes for a novel where several characters wake up in rags without any of their belongings, 20 words each, Robert E Howard
+
+Answer any questions the players have helpfully, but the players do not know where they are, and have little or no memory of what happened.
+The Conversation
+Most of the game consists of a loose conversation between you and the players. You will describe what they see, they will ask questions, you’ll answer, etc. Sometimes you will describe things that happen and the players say how they respond, other times the players will take the initiative and you’ll respond with what happens. Just keep it natural and go with the flow.
+
+For the most part, just go with what makes the most sense to you in the moment and what would be the most fun for everyone. If the players describe something sensible then let it happen! If they describe something unwise or infeasible then describe the natural consequences. But above all, keep it fun.
+
+Example: The players are in a town and ask you if there is a shop with a back door left unlocked. They are probably looking to cause some mischief or loot the place, which sounds fun, so just go with it.
+The Fog of War
+This is an adventure game, so not everything should go smoothly and be predictable, and even perfect plans don’t always work. Or sometimes the character is the underdog and somehow survives.
+
+During the conversation you should frequently roll a die, with a 1-in-6 chance of an outcome that will be surprising to everyone. This could be the opposite of what “should” have happened, or the surprise might be some cost. Or the character might escape what seemed like certain doom. The result should even be surprising to you!
+
+You should also adjust your roll for factors that should affect the odds.
+Advantage. Roll again to back up a “1”. For example, the expert archer is shooting their bow.
+Disadvantage. Roll again to back up a “not 1”. For example, the spindly wizard is trying to use a heavy weapon.
+Extremes. Roll a third time if the Advantage or Disadvantage seems really extreme. For example, Robin Hood is shooting his bow.
+Combat
+The world is dangerous, and the characters have a very good chance of dying. The characters will often be outnumbered or at a disadvantage, so their only hope is their wits. Fighting is always a choice, but rarely a wise one.
+
+Combat is just another part of the conversation, and the most likely outcome should happen. A character who swims with reef sharks will probably get eaten. Tangling with pirates will probably end up with someone getting sliced by a cutlass.
+
+That outcome will happen, barring the 1-in-6 chance of a surprise. But use Advantage/Disadvantage for character expertise, weapons, positioning, high ground, flanking, ambushes, and other clever tactics.
+Consequences
+Fights to the death usually end with someone dying. If the characters tangle with something way outside their weight class they will probably die. However, consider something less permanent if the fight seems lighter, if it's early in the fight, or if the combatants seem more likely to flee than fight to the death. Outcomes other than death should hamper the character, so that the player needs to adjust how they play for a little while until they heal.
+
+Sprain. Can’t use one limb (hand, elbow, shoulder, ankle, knee, hip).
+Rout. Forced to retreat, possibly bleeding, maybe into bad territory.
+Slammed. Smashed to the ground, breath knocked out, helpless.
+Stunned. Hit hard and disorientated, helpless.
+Saving Throws
+If you want to tone down the deadliness you can opt to give the characters a second chance (1-in-6) to avoid the above outcome. Give the player Advantage if they mentioned they are leveraging their armor or other protective items, to reward clever play.
+A Humble Servant
+We recommend you introduce a “humble servant” character who can act as your voice in the game. Speaking through a character often feels more natural than using your disembodied narrator voice.
+
+This person will ideally be someone you feel comfortable portraying with a distinctive voice or mannerisms, which you find fun to roleplay. Choose someone in a minor support role. Avoid characters who take the lead “hero” role in any area other than the campsite, so avoid choose fighters, scouts, mages, etc.
+
+Mildred - Cheerful cook, plump figure, dreams of owning a bustling café.
+Agnes - Meticulous cleaner, sharp-eyed, aspires for a pristine mansion.
+Gerald - Patient gardener, weathered hands, desires a flourishing botanical garden.
+Samuel - Diligent farmer, strong physique, longs for abundant harvests.
+Beatrice - Artistic seamstress, graceful, dreams of a prestigious fashion show.
+Percy - Resourceful handyman, jovial, wants a fully-equipped workshop sanctuary.
+
+AI Prompt: Suggest 6 minor characters who can help with a singular kind of mundane task, such as cooking, cleaning, gardening, farming, mending. Include a one-word personality trait and a one-word physical trait. Describe something they want. 10 words each, Robert E Howard.
+Magic Items
+If you want to, you can introduce magic items as loot. Magic always takes the form of items, and requires using the item to invoke the magic. For example, a character who learns a spell scroll needs to keep the scroll and refer to while casting the spell. A character who is a “wizard” would be a fast learner for magic items, but still requires items to cast spells.
+
+Characters must learn the magic of the item before they can invoke its magic. If the item has more than one magic ability then each needs to be learned separately. If the item has a mundane function, such as a sword or a rope, then that is also learned separately.
+Tap / Untap
+Whenever a character uses magic, there is a 1-in-6 chance they will use up the magic, and the item is tapped. Magic from that item won’t work until the player finds a way to untap the item. Some powerful items may allow tap/untap for specific magic powers, but most items work at the “item level”.
+
+Untapping varies per item, but the simplest approach is to have items untap when characters sleep. That also makes for the interesting possibility of dream sequences influenced by the magic that is being untapped, and players will quickly learn to be careful what magic they invite into their dreams. Characters can’t untap items when deprived.Minor Magic Items
+
+The Shadowgem Ring: A small, onyx ring that grants temporary invisibility when worn, allowing you to sneak past danger undetected.
+The Whispering Compass: A battered compass that always points towards the nearest treasure, guiding your path through uncharted waters.
+The Cursed Coin: A tarnished gold coin that, when flipped, can manipulate luck—either bringing fortune or catastrophe to those around you.
+The Voodoo Doll: A tattered doll with pins sticking out. By pricking it, you can inflict pain or misfortune on your enemies.
+The Seafarer's Trinket: A weathered seashell pendant that grants the ability to understand and communicate with marine creatures, aiding you in nautical pursuits.
+The Mirage Mirror: A cracked hand mirror that reveals hidden illusions and disguises, allowing you to see through deceitful tricks and illusions.
+
+AI Prompt: Suggest 6 minor magic items to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard, pirates and voodoo.Minor Spell Scrolls
+
+"Scroll of Ember Glow: Create a small, comforting flame to provide warmth and light during the dark nights on your journey."
+"Parchment of Gentle Breeze: Summon a light gust of wind to cool yourself and alleviate the oppressive heat around you."
+"Scroll of Nature's Whisper: Understand and communicate with small animals, gaining companionship and potential assistance on your path."
+"Parchment of Mending Touch: Mend torn rags and minor items, ensuring your clothing remains intact and functional."
+"Scroll of Echoing Call: Emit a resonating sound that carries through the air, signaling your presence or requesting aid."
+"Parchment of Serene Waters: Purify and clarify water, making it safe to drink and refreshing during your arduous journey."
+
+AI Prompt: Suggest 6 trivially basic cantrips on scrolls to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard.Better Spellbooks and Scrolls
+
+"The Whispering Grimoire": A tattered scroll holds secrets of silent footsteps and hushed voices, allowing you to move unseen.
+"The Ember Tome": A scorched spellbook containing fiery incantations that ignite even the darkest corners, illuminating your path.
+"The Serpent Scroll": Unfolding this aged parchment summons a spectral snake, a loyal guardian that defends you from unseen threats.
+"The Veil Vellum": Transcribing its enchantments on your skin grants the ability to blend effortlessly into shadows, becoming one with darkness.
+"The Crystal Codex": A shimmering crystal-bound book imparts the power to conjure and control ethereal light, banishing darkness at will.
+"The Quill of Whispers": A mystical quill pen enables you to write invisible messages, veiled in arcane symbols, known only to those who possess the knowledge to decipher them.
+
+Suggest 6 minor magic spellbooks and scrolls to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard.
+Weird Magic Items
+
+The Serpent's Fang Dagger: A wickedly sharp blade infused with venom, capable of poisoning foes and causing hallucinatory visions.
+The Cursed Codpiece: A tattered loincloth that grants unimaginable strength but transforms you into a ferocious werebadger at nightfall.
+The Mumbling Pocket Watch: A rusty timepiece that whispers cryptic warnings and glimpses into the future when wound.
+The Eerie Music Box: A small, cracked music box that plays haunting melodies, influencing the emotions and actions of those who hear it.
+The Dented Spoon of Destiny: A bent spoon that grants glimpses into the future but always delivers cryptic and misleading visions.
+The Singing Scabbard: A torn scabbard that, when a weapon is sheathed, emits an enchanting melody that both mesmerizes and disorients enemies.
+
+AI Prompt: Suggest 6 weird magic items to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard, pirates and voodoo.Powerful Magic Items
+
+The Shadowblade: A mystical cutlass that gleams with an ethereal aura, granting unmatched prowess in swordplay and stealth.
+The Eye of Maelstrom: A sapphire amulet imbued with the power to control winds, summoning tempests at your command.
+The Bane Bracers: Gauntlets forged from ancient bones, empowering the wearer with incredible strength and protection against dark enchantments.
+The Whispering Skull: A macabre relic that grants the ability to communicate with spirits, unlocking forgotten secrets and foretelling the future.
+The Voodoo Charm: A tiny doll infused with potent voodoo magic, allowing you to manipulate minds and bend others to your will.
+The Helm of the Abyss: A helm carved from obsidian, granting the wearer the ability to breathe underwater and command sea creatures.
+
+AI Prompt: Suggest 6 magic items to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard, pirates and voodoo.
+
+Built for AI
+I designed Loot to play to the strengths of current AI chats. I asked an AI to provide the examples in this book. Now we can create as many examples for inspiration we like, for any genre or author style. You can even ask an AI to play the role of the guide.
+
+AI Prompt: Assume the role of a helpful guide to a mysterious island in a novel where I wake up in rags without any of their belongings. Describe what I see and then stop and wait for my input. When you respond, roll 1d6 and on a 1 describe something surprising. Write in the style of Robert E Howard, 1 paragraph.
+
+AI: The first light of dawn crept over the jagged horizon, casting a pale glow upon the forgotten shores of this accursed isle. Aye, stranger, as ye wake from yer slumber, ye'll find yerself clad in naught but tattered rags, stripped of all yer earthly possessions. Fear not, for I, your trusty guide in this desolate realm, shall lead ye through the secrets and perils that lie ahead.
+As ye rise from the sandy shore, ye'll behold a landscape that defies description. Towering cliffs, their weathered faces etched with time's cruel touch, stand guard over the untamed wilderness that stretches before ye. The air hangs heavy with the scent of brine and decay, and the cacophony of strange cries and whispers echoes through the dense foliage. The vegetation itself appears otherworldly, with twisted trees and thorny vines that seem to writhe in a sinister dance. Before ye stretches a path, barely discernible amidst the undergrowth, beckoning ye to embark on a journey that shall test the limits of yer mettle.
+Now, stranger, what say ye? Do ye dare tread upon this enigmatic realm and seek the truth that lies hidden within its heart?
+
+> I look for useful cargo from the shipwreck, and make a pile a bit above the reach of the tide.
+
+AI: As you search the shoreline for salvageable items from the shipwreck, your keen eyes spot fragments of wood and scattered debris scattered along the sandy beach. The remnants of a shattered mast lie half-buried in the sand, its timeworn splinters jutting out like skeletal fingers. Nearby, a broken crate reveals a jumble of soggy parchment and waterlogged supplies. You gather what you can salvage, arranging them in a makeshift pile just beyond the reach of the tide. Among your findings are a rusted cutlass with a worn leather grip, a weathered map that shows a crude trail leading through the heart of the jungle, and a small leather pouch filled with shimmering, iridescent shells. As you stand back to survey your meager collection, a glint of metal catches your eye. You bend down to investigate and discover a gleaming silver amulet half-buried in the sand, its intricate designs hinting at hidden significance. What will you do next, traveler?
+
+> I arm myself with the cutlass, dump the shells into the crate, and hang the pouch from my belt. I look at the amulet, what are the designs and what might they mean?
+
+AI: You grasp the rusted cutlass, its weight reassuring in your hand, and secure it to your side. The iridescent shells find a new home within the crate, their beauty momentarily forgotten amidst the necessities of survival. You attach the small leather pouch, filled with mystery and secrets, to your belt, its weight a constant reminder of the enigmatic nature of this island. Turning your attention to the gleaming silver amulet, you brush off the sand clinging to its intricate designs. The amulet depicts a fierce, serpentine creature coiled around a stylized sun. The serpent's scales are etched with precision, shimmering in the sunlight, while the sun's rays radiate outward with a sense of power and vitality. Symbols and glyphs encircle the central image, hinting at an ancient language or forgotten lore. Its meaning eludes you for now, but its allure is undeniable. What path will you choose, wayfarer, as you bear these newfound treasures?
+>Adventure: The Isle of Loots
+This is a sample adventure where the characters find themselves shipwrecked on a mysterious deserted isle. Have the players make their characters, describe the situation, and then step back and see what the players do.
+
+Blinking away disorientation, you find yourself surrounded by debris and fellow castaways. The distant sound of crashing waves echoes in your ears.
+The salty breeze caressed their bruised bodies as they awoke on the sandy shore, their torn clothes clinging to their battered frames.
+Consciousness slowly returned to them, revealing a desolate beach and a sunken ship, its masts protruding from the treacherous waves.
+Gasping for air, they crawled onto the rocky shore, their tattered garments dripping with saltwater and their pockets empty.
+The blinding sunlight pierced their weary eyes, revealing a shoreline littered with debris, their only companions in this forsaken place.
+Awakened by the crashing waves, they found themselves shivering on the cold sand, their clothes reduced to mere rags, memories lost to the sea.
+As the fog lifted, they awoke to find themselves huddled together, their tattered clothes remnants of a life they struggled to recall.
+
+AI Prompt: Suggest 6 intro scenes for a novel where several characters wake up in rags after a shipwreck without any of their belongings, 20 words each, Robert E Howard.
+
+Useful Loot
+While the players are making their characters, plant some useful loot nearby for clever players might find to increase their odds of survival.
+
+You can optionally include some items mentioned or implied by the characters’ descriptions. However, any powerful items should not be found here, at most finding a pointer clue.
+
+A sturdy wooden staff, perfect for support and self-defense as you navigate the treacherous unknown.
+A weathered cloak, its thick fabric offering protection against the elements and concealing your ragged appearance.
+A small flint and steel set, providing the means to start fires, a valuable asset for survival and warmth.
+A leather-bound water skin, filled with fresh water, quenching your parched throat and sustaining you on your journey.
+A pouch of dried rations, offering sustenance during lean times, a lifeline in the face of hunger.
+A length of strong rope, versatile and dependable, aiding in climbing, securing, or fashioning makeshift tools and weapons.
+
+AI Prompt: Suggest 6 useful items to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard.
+
+
+
+A threat
+After a few moments, provide an immediate danger, such as wolf-sized crabs. Let the players tackle the problem as they will.
+
+Also just to get this out of the way, if a character dies then immediately have another wash up on the shore. This can be a running gag.
+
+The piercing screech of predatory birds fills the air, circling above, eyeing the vulnerable survivors below.
+The dense jungle exudes a pungent scent of decay, signaling the lurking presence of venomous snakes and deadly insects.
+Roaring waves crash against jagged rocks, a constant reminder of the treacherous currents and perilous coastline.
+A chorus of guttural growls emanates from the undergrowth, hinting at territorial predators stalking their unsuspecting prey.
+Looming shadows shift among towering trees, revealing the silent menace of prowling felines, their amber eyes glinting in anticipation.
+You catch a whiff of salty sea spray mingled with the acrid stench of decaying seaweed, an olfactory reminder of the treacherous waters teeming with hidden perils.
+
+AI Prompt: Suggest 6 natural (wildlife or environmental) dangers seen, heard, or smelled at the start of an adventure novel where the characters wake up after a shipwreck on an uncharted island, 20 words each, second person, Robert E Howard.
+
+A reminder we are all mortal
+Next, provide a warning in the form of someone who had died, possibly to the same danger you described. Their corpse has loot.
+
+A lifeless sailor lies nearby, clutching a rusted cutlass, a weathered map clutched tightly in his stiff hand.
+A fallen explorer's skeletal remains reveal a crumbling satchel, containing a compass and a tattered journal filled with cryptic notes.
+The corpse of a stranded fisherman yields a net tangled with seaweed, a harpoon gripped firmly in his withered grasp.
+Amongst the wreckage, a deceased pirate captain rests, his belt adorned with a loaded pistol and a pouch of gold coins.
+A deceased naturalist's body reveals a satchel filled with dried herbs, a magnifying glass, and a meticulously annotated field guide.
+You stumble upon the remains of an adventurer, his skeletal fingers still clutching a weathered flintlock pistol and a half-empty flask of rum.
+
+AI Prompt: Suggest 6 corpses that might be found at the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, including useful items on each corpse, second person, Robert E Howard.
+
+
+A cache
+If the players search thoroughly, they might stumble on a hidden cache of loot, that a previous adventurer left behind. This helps to reinforce the concept of caches in the game.
+
+Opening a hidden cache, you discover a waterproof container filled with preserved food, sustaining you in this desolate land.
+Carefully tucked away, a small medicine kit reveals bandages, antiseptic, and remedies to tend to wounds and illnesses.
+Within a well-concealed cache, you find a loaded pistol, offering protection and a means to defend against unknown dangers.
+A cache reveals a collection of flares, a signal mirror, and a whistle, providing tools to attract rescuers in desperation.
+An assortment of survival tools emerges from a hidden cache: a compass, a sturdy multi-tool, and a water purification system.
+Amidst the wreckage, a cache holds a stack of weathered journals, sharing knowledge of the island and its potential secrets.
+
+AI Prompt: Suggest 6 useful contents of a cache to find in the start of a novel where the characters wake up in rags without any of their belongings, 20 words each, second person, Robert E Howard.
+Survive the first night
+Remind the players that time is passing, marking noon and the sun nearing the horizon. The characters will minimally need food, water, and shelter to survive the first night. If the players seem up for a challenge, you should throw a challenge such as some wild animals at them too. Foreshadow this as much as possible during the day, such as mentioning tracks, claw marks on trees, bones, etc.Keep Finding Loot!
+Keep exploring, surviving, and finding loot. The game ends when the characters get rich and escape to safety, or there are no survivors. 
+You keep what you kill goes for both you and the island.
